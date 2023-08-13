@@ -38,6 +38,3 @@ Set Up Java Swing and AWT Libraries: In NetBeans, right-click on the project nam
 Build the Project: Right-click on the project name again and choose "Build" from the context menu. This will compile the Java code and build the project.
 
 Run the Project: After successful build, right-click on the project name. Select "Run" from the context menu, or click the green "Play" button in the toolbar. This will launch the Sudoku Solver application.
-
-Screenshots
-Screenshot (298) Screenshot 2023-08-11 174507 Screenshot 2023-08-11 174524
